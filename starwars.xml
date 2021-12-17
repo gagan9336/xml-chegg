@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="starwars.xsl" ?>
+<starwars>
+<movie>
+   <title>Empire Strikes Back</title>
+   <episode>5</episode>
+   <year>1980</year>
+</movie>
+<movie>
+   <title>Return of the Jedi</title>
+   <episode>6</episode>
+   <year>1983</year>
+</movie>
+<movie>
+   <title>Star Wars: A New Hope</title>
+   <episode>4</episode>
+   <year>1977</year>
+</movie>
+</starwars>
